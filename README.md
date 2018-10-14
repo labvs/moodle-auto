@@ -1,6 +1,10 @@
 # moodle-auto
+
 Several scripts automate routine tasks
 
-#requirements:
+Скрипты для автоматизации работы с системой управления обучением moodle
+
+# requirements:
+
 - linux
 - [moosh](http://moodle.org/)
