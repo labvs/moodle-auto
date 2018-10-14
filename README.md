@@ -7,4 +7,5 @@ Several scripts automate routine tasks
 # requirements:
 
 - linux
+- bash
 - [moosh](http://moodle.org/)
